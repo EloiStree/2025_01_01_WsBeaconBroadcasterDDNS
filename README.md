@@ -10,6 +10,9 @@ For example, each player's position can be compressed to 12–16 bytes. Assuming
 
 Beyond game design considerations, I will need to develop a broadcasting system capable of scaling effectively. This will involve crafting code to distribute data via a dynamic DNS (DDNS) system and structuring beacons similar to an NTP network of interconnected computers.  
 
-**Milestone A:** Allow Twitch Play players to receive information about the running game and remotely control their characters.  
-**Milestone B:** Develop a small game that minimizes upload bandwidth usage using the concept.
-**Milestone C:** Gradually expand the game player size allowed and its features over time, growing month by month.  
+**Milestone A:** Allow Twitch Play players to receive information about the running game and remotely control their characters.    
+**Milestone B:** Develop a small game that minimizes upload bandwidth usage using the concept.  
+**Milestone C:** Gradually expand the game player size allowed and its features over time, growing month by month.    
+
+
+> The code has not been started yet, but it is part of my 2025_01_01 resolution to enable the type of game I want to build.
