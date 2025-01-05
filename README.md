@@ -16,3 +16,5 @@ Beyond game design considerations, I will need to develop a broadcasting system 
 
 
 > The code has not been started yet, but it is part of my 2025_01_01 resolution to enable the type of game I want to build.
+
+> **Note:** To host a beacon, you need to know how to open ports and set up port forwarding.
